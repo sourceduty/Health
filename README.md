@@ -25,4 +25,6 @@ By combining synthetic specimens in computational biology with whole-body simula
 
 ![DALL·E 2024-01-24 07 29 17 - A futuristic scene depicting a human undergoing a cloning process  The setting is a high-tech laboratory with advanced machinery and glowing screens  ](https://github.com/sourceduty/Health/assets/123030236/360fb9d9-3867-4a9f-86ec-110a15ab4b13)
 
+![Healthscan Machine](https://github.com/sourceduty/Health/assets/123030236/c7027173-d2f3-4d53-bd44-e9577a07b1dc)
+
 ***
