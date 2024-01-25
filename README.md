@@ -29,8 +29,9 @@ Predictive interventions using computational biology involve using computer simu
 
 ***
 
-## Patient Preferences Regarding Disclosure of Potential Medical Errors
+## Synthesized errors in computational biology.
 
-Patients' preferences about being informed of upcoming errors in their medical care can vary. Factors include the severity of the error, personal choices, informed consent, emotional impact, the ability to take action, cultural influences, and ethical considerations. Healthcare providers should consider these factors when deciding how to communicate about potential errors.
+
+Synthesized errors in computational biology refer to intentionally created errors or variations introduced into biological data or models for research purposes. These errors are introduced to study how computational methods and algorithms perform under different conditions and to improve the accuracy and reliability of computational biology tools and analyses.
 
 ***
