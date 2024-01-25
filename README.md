@@ -37,7 +37,7 @@ Patient preferences regarding whether they would want to know about upcoming err
 
 ***
 
-## Exploring Human Lifespan Limits through Computational Biology
+## Exploring Human Lifespan Limits 
 
 Computational biology is pivotal in investigating the limitations of human lifespan. It dissects the intricate interplay of genetic, environmental, and biological factors influencing longevity. Through computational models, researchers identify genetic determinants and aging biomarkers, shedding light on the constraints of human lifespan.
 
