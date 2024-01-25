@@ -22,13 +22,3 @@ To realize these advancements, investments are required in technology developmen
 By combining synthetic specimens in computational biology with whole-body simulation in healthcare, we can revolutionize research and patient care. These innovations offer proactive error prevention, personalized treatment, and cost savings while maintaining ethical standards. Investing in these fields will drive progress, improve outcomes, and benefit both science and society.
 
 ***
-
-![DALL·E 2024-01-24 07 29 17 - A futuristic scene depicting a human undergoing a cloning process  The setting is a high-tech laboratory with advanced machinery and glowing screens  ](https://github.com/sourceduty/Health/assets/123030236/360fb9d9-3867-4a9f-86ec-110a15ab4b13)
-
-![Healthscan Machine](https://github.com/sourceduty/Health/assets/123030236/c7027173-d2f3-4d53-bd44-e9577a07b1dc)
-
-***
-
-![Medical Error](https://github.com/sourceduty/Health/assets/123030236/98e7d0ef-6730-4f1b-8053-a65e2a63d791)
-
-***
