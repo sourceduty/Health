@@ -23,7 +23,7 @@ By combining synthetic specimens in computational biology with whole-body simula
 
 ***
 
-### Predictive Interventions
+## Predictive Interventions
 
 Predictive interventions using computational biology involve using computer simulations and modeling techniques to study the effects of potential interventions on synthetic biological specimens. This approach allows researchers to predict how treatments, drugs, or genetic modifications might impact these synthetic systems, aiding in the development and testing of new therapies or preventive strategies.
 
