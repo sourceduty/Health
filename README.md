@@ -29,7 +29,7 @@ Predictive interventions using computational biology involve using computer simu
 
 ***
 
-## Synthesized errors in computational biology.
+## Synthesized Errors In Computational Biology
 
 
 Synthesized errors in computational biology refer to intentionally created errors or variations introduced into biological data or models for research purposes. These errors are introduced to study how computational methods and algorithms perform under different conditions and to improve the accuracy and reliability of computational biology tools and analyses.
