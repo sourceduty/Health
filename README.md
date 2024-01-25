@@ -28,3 +28,7 @@ By combining synthetic specimens in computational biology with whole-body simula
 ![Healthscan Machine](https://github.com/sourceduty/Health/assets/123030236/c7027173-d2f3-4d53-bd44-e9577a07b1dc)
 
 ***
+
+![Medical Error](https://github.com/sourceduty/Health/assets/123030236/98e7d0ef-6730-4f1b-8053-a65e2a63d791)
+
+***
