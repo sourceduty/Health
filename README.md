@@ -57,7 +57,7 @@ Instead of pursuing this speculative notion, computational biology focuses on mo
 
 ##  Artificial Birth
 
-The concept of a **ectogenesis**, is a futuristic idea that raises profound ethical, scientific, and societal questions. While it remains largely speculative, scientists have made strides in understanding fetal development and incubating animal fetuses outside the womb. Challenges include replicating the complexities of human pregnancy, maintaining a stable environment, and addressing ethical dilemmas.
+The concept of **ectogenesis**, is a futuristic idea that raises profound ethical, scientific, and societal questions. While it remains largely speculative, scientists have made strides in understanding fetal development and incubating animal fetuses outside the womb. Challenges include replicating the complexities of human pregnancy, maintaining a stable environment, and addressing ethical dilemmas.
 
 Ectogenesis holds potential medical benefits, such as reducing the risk of premature birth and helping individuals with medical conditions that hinder traditional pregnancies. However, it also presents ethical challenges surrounding the beginning of life, reproductive rights, and the role of mothers in pregnancy. Access, affordability, and the risk of commodifying reproduction must be addressed to ensure equitable use.
 
