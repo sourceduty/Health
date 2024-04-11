@@ -123,6 +123,8 @@ Simulating mental health variants could find mental health disorder variations w
 
 Computational neuroscience is a field that integrates methods from mathematics, physics, computer science, and biology to understand how the brain computes information. It seeks to develop mathematical models and computer simulations to explain brain functions, such as perception, learning, memory, and decision-making.
 
+Researchers in computational neuroscience use techniques such as neural networks, mathematical modeling, signal processing, and data analysis to simulate and analyze the complex dynamics of neural systems. These models help researchers gain insights into the principles underlying brain function, as well as to predict how alterations in neural circuits can lead to neurological disorders.
+
 <br>
 </details>
 
