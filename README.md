@@ -1,3 +1,5 @@
+<details><summary>Leveraging Synthetic Specimens</summary>
+<br>
 
 ![Synthetic Heart](https://github.com/sourceduty/Health/assets/123030236/16c3e52f-ad55-46c6-93ba-4878c4017f21)
 
@@ -21,7 +23,8 @@ Conclusion
 
 By combining synthetic specimens in computational biology with whole-body simulation in healthcare, we can revolutionize research and patient care. These innovations offer proactive error prevention, personalized treatment, and cost savings while maintaining ethical standards. Investing in these fields will drive progress, improve outcomes, and benefit both science and society.
 
-***
+<br>
+</details>
 
 <details><summary>Predictive Interventions</summary>
 <br>
