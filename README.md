@@ -2,6 +2,29 @@
 
 #
 
+<details><summary>Biohumanoids</summary>
+<br>
+
+![Biohumanoid](https://github.com/sourceduty/Health/assets/123030236/6a33ad5f-b4e9-4fe4-900c-c81a3513033d)
+
+> Alex: *"A biohumanoid is made by combining a synthetic bioengineered human brain with a real human body. Biohumanoids can also be made by combining a synthetic bioengineered human body with a human brain."*
+
+> If the synthetic biological components are designed to mimic or replace natural biological functions using bioengineering techniques, one might also refer to this person as a type of "enhanced human" or "genetically modified human."
+
+#
+### Biohumanoids
+
+Biohumanoids represent a groundbreaking fusion of biotechnology and synthetic engineering, blurring the boundaries between organic life and artificial creation. These beings are typically conceived in two primary forms: one type involves a bioengineered brain housed within an otherwise normal human body, while the other combines a human brain with a synthetic, bioengineered human body.
+
+The first type of biohumanoid features a real human body, complete in every organic detail, but powered by a "biologically synthetic" brain. This brain is constructed using advanced biological engineering techniques that integrate organic neural tissues with synthetic components. The goal is to enhance certain human capabilities, such as memory, processing speed, and connectivity to external devices, thereby expanding human cognitive capacities beyond natural limits. The creation process involves meticulous cellular engineering, where neurons are grown and organized in ways that can surpass the efficiency of natural neural networks.
+
+In contrast, the second type of biohumanoid reverses the organic and synthetic roles. Here, the body is entirely bioengineered, designed to mimic human anatomy but using materials that are more durable, efficient, and adaptable than those found in natural human bodies. This synthetic body is paired with a human brain, which may be preserved from an individual whose body has failed or who opts into this form for other reasons. This setup aims to maintain human consciousness and identity within a vessel that offers enhanced resilience and longevity, potentially opening new possibilities for human experience, especially in hostile environments like space or underwater.
+
+The implications of biohumanoids are profound, touching on ethics, identity, and the very definition of human life. They challenge our understanding of personhood and the potential for technological integration at the most intimate level. As these biohumanoids could theoretically possess enhanced physical abilities and cognitive functions, they prompt discussions about equality, rights, and societal integration in a future where biological and synthetic enhancements are possible.
+
+<br>
+</details>
+
 <details><summary>Leveraging Synthetic Specimens</summary>
 <br>
 
