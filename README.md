@@ -1,6 +1,29 @@
 ![Human](https://github.com/sourceduty/Health/assets/123030236/7b9c25f5-5afa-4537-8b94-22ec16a827d9)
 
 #
+<details><summary>Digitizing and Replicating Human Life</summary>
+<br>
+
+![Digital Human](https://github.com/sourceduty/Health/assets/123030236/0a227427-89ee-420d-a92a-25527b2fc931)
+
+Digitizing a person involves reliance on others for maintenance and usage, highlighting a dependency inherent in the technology. Currently, it is not feasible to achieve complete and exact digital or biological replication of humans due to technological limitations. Our lives are deeply intertwined with the natural world, which dictates an inevitable cycle of life and death that we must accept. Furthermore, the notion of immortality through digitizing human brains or bodies remains largely theoretical, as the complexities of fully replicating human biological processes digitally are beyond our current capabilities.
+
+### Modern Facts of Digitizing and Replicating Human Life
+
+1. It's currently not possible to copy or duplicate humans as 100% exact synthetic digital or biological replications.
+2. If a person is digitized they will depend on one or more other people to maintain and use the digitization.
+3. We are required to live a life without assurance with nature and we are also required die as ordered by nature's lifecycles.
+
+### What percentage of the human mind can be digitized?
+
+The concept of digitizing the human mind involves transferring or simulating the mental processes of the human brain—including consciousness, memories, and thoughts—into a digital format. This is often referred to as "mind uploading." As of now, there is no concrete way to quantify how much of the human mind can be digitized because the technology required to fully capture and replicate the intricate network of neurons and the brain's complex biochemical processes doesn't exist yet. Theoretical discussions often delve into the realms of cognitive science, neuroscience, and artificial intelligence, but they remain speculative.
+
+### What percentage of the human body can be biologically replicated?
+
+In terms of replicating the human body biologically, there has been significant progress in biotechnologies such as cloning, organ regeneration, and synthetic biology. For example, cloning techniques can create genetic copies of biological entities, and advances in tissue engineering allow for the creation of biologically replicated organs through techniques like 3D bioprinting. However, replicating the entire human body with full functionality involves complexities that go beyond current technological capabilities. While we can replicate certain parts of the body, a complete, functional biological replication is not yet feasible.
+
+<br>
+</details>
 
 <details><summary>Biohumanoids</summary>
 <br>
