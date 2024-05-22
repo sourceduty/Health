@@ -11,9 +11,9 @@ Digitizing a person involves reliance on others for maintenance and usage, highl
 #
 ### Modern Facts of Digitizing and Replicating Human Life
 
-1. It's currently not possible to copy or duplicate humans as 100% exact synthetic digital or biological replications.
-2. If a person is digitized they will depend on one or more other people to maintain and use the digitization.
-3. We are required to live a life without assurance with nature and we are also required die as ordered by nature's lifecycles.
+    1. It's currently not possible to copy or duplicate humans as 100% exact synthetic digital or biological replications.
+    2. If a person is digitized they will depend on one or more other people to maintain and use the digitization.
+    3. We are required to live a life without assurance with nature and we are also required die as ordered by nature's lifecycles.
 
 #
 ### What percentage of the human mind can be digitized?
