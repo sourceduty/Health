@@ -1,4 +1,4 @@
-![Human](https://github.com/sourceduty/Health/assets/123030236/7b9c25f5-5afa-4537-8b94-22ec16a827d9)
+![It's Alive!](https://github.com/sourceduty/Health/assets/123030236/7d75f338-d112-42a6-8b53-b4a63daa59b6)
 
 #
 <details><summary>Digitizing and Replicating Human Life</summary>
