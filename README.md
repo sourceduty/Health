@@ -217,5 +217,12 @@ The top 25 home remedies that are commonly used for various ailments:
 <br>
 </details>
 
+#
+### Related Links
+
+[Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+<br>
+[Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
