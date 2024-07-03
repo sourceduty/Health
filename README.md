@@ -1,6 +1,8 @@
 ![It's Alive!](https://github.com/sourceduty/Health/assets/123030236/7d75f338-d112-42a6-8b53-b4a63daa59b6)
 
 #
+### Notes
+
 <details><summary>Digitizing and Replicating Human Life</summary>
 <br>
 
@@ -177,6 +179,40 @@ Simulating mental health variants could find mental health disorder variations w
 Computational neuroscience is a field that integrates methods from mathematics, physics, computer science, and biology to understand how the brain computes information. It seeks to develop mathematical models and computer simulations to explain brain functions, such as perception, learning, memory, and decision-making.
 
 Researchers in computational neuroscience use techniques such as neural networks, mathematical modeling, signal processing, and data analysis to simulate and analyze the complex dynamics of neural systems. These models help researchers gain insights into the principles underlying brain function, as well as to predict how alterations in neural circuits can lead to neurological disorders.
+
+<br>
+</details>
+
+<details><summary>Home Remedies</summary>
+<br>
+
+The top 25 home remedies that are commonly used for various ailments:
+
+1. Honey and Lemon for Sore Throat: Mix honey and lemon in warm water to soothe a sore throat.
+2. Ginger Tea for Nausea: Boil fresh ginger in water to make tea that helps relieve nausea.
+3. Aloe Vera for Burns: Apply aloe vera gel to minor burns to promote healing.
+4. Peppermint Tea for Digestive Issues: Drink peppermint tea to help with indigestion and bloating.
+5. Saltwater Gargle for Sore Throat: Gargle with warm salt water to reduce throat inflammation.
+6. Turmeric for Inflammation: Add turmeric to food or drinks to benefit from its anti-inflammatory properties.
+7. Apple Cider Vinegar for Acid Reflux: Mix a teaspoon of apple cider vinegar in a glass of water to alleviate acid reflux.
+8. Eucalyptus Oil for Congestion: Inhale eucalyptus oil steam to clear nasal congestion.
+9. Chamomile Tea for Sleep: Drink chamomile tea to help with insomnia and improve sleep quality.
+10. Baking Soda for Heartburn: Dissolve a teaspoon of baking soda in water to neutralize stomach acid.
+11. Garlic for Cold and Flu: Consume raw garlic to boost the immune system and fight off colds and flu.
+12. Coconut Oil for Dry Skin: Apply coconut oil to moisturize and soothe dry skin.
+13. Oatmeal Bath for Skin Irritations: Take an oatmeal bath to relieve itchy skin and rashes.
+14. Lavender Oil for Anxiety: Use lavender oil in aromatherapy to reduce anxiety and stress.
+15. Hydration for Headaches: Drink plenty of water to prevent and relieve headaches.
+16. Yogurt for Yeast Infections: Apply plain yogurt to the affected area to treat yeast infections.
+17. Tea Tree Oil for Acne: Apply diluted tea tree oil to acne-prone areas to reduce inflammation.
+18. Epsom Salt Bath for Muscle Pain: Soak in an Epsom salt bath to relieve muscle aches and pains.
+19. Onion for Ear Infections: Place a warm onion poultice on the ear to alleviate ear infection symptoms.
+20. Bananas for Heartburn: Eat bananas to help neutralize stomach acid and relieve heartburn.
+21. Fenugreek for Breast Milk Production: Consume fenugreek seeds to increase breast milk supply.
+22. Cucumber for Puffy Eyes: Place cucumber slices on the eyes to reduce puffiness and dark circles.
+23. Cranberry Juice for UTIs: Drink cranberry juice to help prevent urinary tract infections.
+24. Clove Oil for Toothache: Apply clove oil to the affected tooth to relieve pain.
+25. Mustard for Cough: Use a mustard plaster on the chest to soothe a cough.
 
 <br>
 </details>
