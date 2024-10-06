@@ -36,28 +36,64 @@ Another significant avenue for improvement lies in the integration of non-pharma
 #
 ### Mental Health Disorders, Medication and Treatment Pharmacology
 
-| Receptor        | Associated Disorders                         | Medications Targeting the Receptor                    |
-|-----------------|----------------------------------------------|------------------------------------------------------|
-| 5-HT1A          | Anxiety, Depression                          | Buspirone, Aripiprazole, SSRIs (e.g., Fluoxetine)     |
-| 5-HT2A          | Schizophrenia, Psychosis, Depression         | Aripiprazole, Risperidone, Olanzapine, Quetiapine     |
-| 5-HT2C          | Depression, Obesity, Anxiety                 | Lorcaserin, Mirtazapine, Olanzapine                   |
-| 5-HT3           | Nausea, Anxiety                              | Ondansetron, Granisetron, Tropisetron                 |
-| 5-HT4           | Cognitive Disorders, Gastrointestinal Issues | Cisapride, Prucalopride                               |
-| 5-HT6           | Cognitive Disorders, Alzheimer’s Disease     | Idalopirdine (investigational), SB-742457 (research)  |
-| 5-HT7           | Depression, Sleep Disorders                  | Vortioxetine, Risperidone                             |
-| Dopamine D2     | Schizophrenia, Bipolar Disorder, Parkinson's | Aripiprazole, Haloperidol, Risperidone, Quetiapine    |
-| Dopamine D1     | Cognitive Impairment, Parkinson's            | Levodopa, Dopamine Agonists                           |
-| GABA-A          | Anxiety, Epilepsy, Insomnia                  | Benzodiazepines (e.g., Diazepam), Barbiturates, Z-drugs|
-| GABA-B          | Spasticity, Anxiety                          | Baclofen, GABAB agonists                              |
-| NMDA (Glutamate)| Schizophrenia, Alzheimer's, Stroke           | Memantine, Ketamine, Dextromethorphan                 |
-| AMPA (Glutamate)| Cognitive Disorders, Depression              | Perampanel, AMPA modulators                           |
-| Alpha-2 (Adrenergic)| ADHD, Hypertension, Anxiety             | Clonidine, Guanfacine                                 |
-| Beta (Adrenergic)| Anxiety, PTSD, Hypertension                 | Propranolol, Atenolol                                 |
-| Mu Opioid       | Pain, Addiction                              | Morphine, Methadone, Buprenorphine, Naltrexone        |
-| Nicotinic (Acetylcholine)| Cognitive Disorders, Alzheimer's   | Nicotine, Varenicline                                 |
-| Muscarinic (Acetylcholine)| Cognitive Decline, Parkinson’s    | Donepezil, Scopolamine                                |
-| Histamine H1    | Insomnia, Allergies, Anxiety                 | Diphenhydramine, Quetiapine, Doxepin                  |
-| Histamine H2    | Gastroesophageal Reflux Disease (GERD)       | Ranitidine, Famotidine                                |
+| Receptor              | Associated Disorders                         | Medications Targeting the Receptor                       |
+|-----------------------|----------------------------------------------|---------------------------------------------------------|
+| 5-HT1A                | Anxiety, Depression                          | Buspirone, Aripiprazole, SSRIs (e.g., Fluoxetine)        |
+| 5-HT1B                | Depression, Anxiety                          | Triptans, SSRIs                                          |
+| 5-HT1D                | Migraine, Depression                         | Triptans                                                 |
+| 5-HT2A                | Schizophrenia, Psychosis, Depression         | Aripiprazole, Risperidone, Olanzapine, Quetiapine        |
+| 5-HT2B                | Cardiovascular Issues, Anxiety               | Antagonists under research                               |
+| 5-HT2C                | Depression, Obesity, Anxiety                 | Lorcaserin, Mirtazapine, Olanzapine                      |
+| 5-HT3                 | Nausea, Anxiety                              | Ondansetron, Granisetron, Tropisetron                    |
+| 5-HT4                 | Gastrointestinal Disorders, Cognition        | Cisapride, Prucalopride                                  |
+| 5-HT6                 | Cognitive Disorders, Alzheimer’s             | Idalopirdine (research), SB-742457                       |
+| 5-HT7                 | Depression, Sleep Disorders                  | Vortioxetine, Risperidone                                |
+| Dopamine D1           | Cognitive Decline, Parkinson's               | Levodopa, Dopamine Agonists                              |
+| Dopamine D2           | Schizophrenia, Bipolar Disorder, Parkinson's | Aripiprazole, Haloperidol, Risperidone, Quetiapine       |
+| Dopamine D3           | Addiction, Schizophrenia                     | Cariprazine, Pramipexole                                 |
+| Dopamine D4           | ADHD, Schizophrenia                          | Clozapine, Lurasidone                                    |
+| Dopamine D5           | Cognitive Disorders                          | Research-targeted ligands                                |
+| GABA-A                | Anxiety, Epilepsy, Insomnia                  | Benzodiazepines (e.g., Diazepam), Barbiturates, Z-drugs  |
+| GABA-B                | Spasticity, Anxiety                          | Baclofen, GABAB agonists                                 |
+| NMDA (Glutamate)      | Schizophrenia, Alzheimer's, Stroke           | Memantine, Ketamine, Dextromethorphan                    |
+| AMPA (Glutamate)      | Cognitive Disorders, Depression              | Perampanel, AMPA modulators                              |
+| mGluR (Metabotropic)  | Anxiety, Schizophrenia                       | LY354740 (research), Pimavanserin                        |
+| Alpha-1 Adrenergic    | PTSD, Hypertension                           | Prazosin, Doxazosin                                      |
+| Alpha-2 Adrenergic    | ADHD, Hypertension, Anxiety                  | Clonidine, Guanfacine                                    |
+| Beta Adrenergic       | Anxiety, PTSD, Hypertension                  | Propranolol, Atenolol                                    |
+| Mu Opioid             | Pain, Addiction                              | Morphine, Methadone, Buprenorphine, Naltrexone           |
+| Kappa Opioid          | Depression, Pain, Addiction                  | Nalbuphine, Buprenorphine, Antagonists in research       |
+| Delta Opioid          | Pain, Mood Regulation                        | DPDPE (research), Buprenorphine                          |
+| Nicotinic (Acetylcholine) | Cognitive Decline, Alzheimer's       | Nicotine, Varenicline                                    |
+| Muscarinic M1-M5      | Alzheimer's, Schizophrenia, Cognitive Decline| Donepezil, Scopolamine, Atropine                         |
+| Histamine H1          | Insomnia, Allergies, Anxiety                 | Diphenhydramine, Quetiapine, Doxepin                     |
+| Histamine H2          | GERD, Cognitive Function                     | Ranitidine, Famotidine                                   |
+| Histamine H3          | Narcolepsy, Cognitive Disorders              | Pitolisant                                               |
+| Histamine H4          | Inflammation, Immune Regulation              | Research compounds                                       |
+| Melatonin MT1, MT2    | Sleep Disorders                              | Melatonin, Ramelteon                                     |
+| Orexin (OX1, OX2)     | Narcolepsy, Sleep Disorders                  | Suvorexant, Lemborexant                                  |
+| Adenosine A1, A2A     | Sleep Regulation, Anxiety                    | Caffeine, Theophylline                                   |
+| Sigma-1               | Depression, Schizophrenia                    | Fluvoxamine, Donepezil                                   |
+| Sigma-2               | Cancer, Cognitive Disorders                  | Ligands in research                                      |
+| Cannabinoid CB1       | Anxiety, Pain, Appetite Regulation           | Dronabinol, Nabilone                                     |
+| Cannabinoid CB2       | Inflammation, Immune Function                | Research compounds, Cannabidiol                          |
+
+This expanded table provides a comprehensive overview of the diverse range of receptors implicated in mental health disorders, as well as the medications that target these receptors to manage symptoms. Each receptor subtype plays a unique role in various aspects of mental and physical health, from mood regulation and cognition to sleep and pain perception. For instance, serotonin receptors like 5-HT1A and 5-HT2A are targeted by medications to alleviate symptoms of anxiety, depression, and psychosis, while dopamine receptors such as D2 are essential for managing conditions like schizophrenia and bipolar disorder. The table also highlights receptors associated with other crucial neurotransmitters, such as GABA, glutamate, acetylcholine, histamine, and adrenergic receptors—each with specific effects and corresponding pharmacological treatments. By understanding these receptors and their associated disorders, clinicians can select targeted medications that optimize treatment and reduce side effects for patients.
+
+Additionally, this table reflects the complexity of neuropsychiatric disorders, which often involve multiple receptor systems. For example, drugs like aripiprazole act on several receptors (e.g., dopamine D2 and serotonin 5-HT1A/5-HT2A), enabling them to manage multiple symptoms of disorders like schizophrenia and bipolar disorder. Beyond traditional neurotransmitter systems, newer areas of research are exploring the roles of sigma receptors, melatonin receptors, and cannabinoid receptors in mental health, leading to the development of innovative treatments. The table underscores the importance of receptor-targeted pharmacotherapy in modern psychiatry, as understanding the diverse roles these receptors play allows for more precise treatments that cater to each patient's unique neurochemical profile. This targeted approach helps to improve symptom relief, minimize adverse effects, and potentially uncover new therapeutic pathways for complex mental health conditions.
+
+#
+### How Receptors Work
+
+Receptors are specialized protein molecules located on the surfaces of cells, particularly in the brain, that bind to neurotransmitters, hormones, and other signaling molecules. When a neurotransmitter (like serotonin or dopamine) binds to its corresponding receptor, it triggers a series of cellular responses that can either activate or inhibit the neuron’s activity. These responses lead to various effects on mood, cognition, perception, and behavior, which are crucial in mental health.
+
+There are two primary types of receptors:
+
+Ionotropic Receptors: These receptors form ion channels that open in response to the binding of a neurotransmitter. When the channel opens, ions such as sodium, potassium, or chloride flow into or out of the cell, changing the cell’s electrical charge and affecting its excitability. An example of this type is the GABA-A receptor, which regulates inhibitory signals.
+
+G-Protein-Coupled Receptors (GPCRs): These receptors, when activated by a neurotransmitter, initiate a cascade of intracellular signaling pathways involving G-proteins. These pathways can influence various cellular processes and lead to longer-lasting effects. Examples include 5-HT (serotonin) receptors and dopamine receptors.
+
+Receptors are highly specialized, meaning that each receptor type interacts with specific neurotransmitters and is found in different regions of the brain. This specificity allows for targeted effects, which is why certain medications are used to treat specific mental health disorders by targeting particular receptors.
 
 #
 ### Notes
