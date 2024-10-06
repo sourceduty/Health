@@ -34,6 +34,32 @@ Improving medication for mental health requires a multifaceted approach that int
 Another significant avenue for improvement lies in the integration of non-pharmacological therapies alongside medication. Combining pharmacological treatments with cognitive-behavioral therapy (CBT) or mindfulness-based approaches has shown promise in enhancing overall treatment effectiveness. Furthermore, ongoing monitoring and support through digital health tools can provide real-time feedback on medication efficacy and side effects, enabling timely adjustments. As research continues to unveil the neurobiological underpinnings of mental health conditions, the development of novel pharmacological agents, including psychedelics and fast-acting antidepressants, offers exciting potential to revolutionize mental health treatment, making it more effective and accessible for those in need.
 
 #
+### Mental Health Disorders, Medication and Treatment Pharmacology
+
+| Receptor        | Associated Disorders                         | Medications Targeting the Receptor                    |
+|-----------------|----------------------------------------------|------------------------------------------------------|
+| 5-HT1A          | Anxiety, Depression                          | Buspirone, Aripiprazole, SSRIs (e.g., Fluoxetine)     |
+| 5-HT2A          | Schizophrenia, Psychosis, Depression         | Aripiprazole, Risperidone, Olanzapine, Quetiapine     |
+| 5-HT2C          | Depression, Obesity, Anxiety                 | Lorcaserin, Mirtazapine, Olanzapine                   |
+| 5-HT3           | Nausea, Anxiety                              | Ondansetron, Granisetron, Tropisetron                 |
+| 5-HT4           | Cognitive Disorders, Gastrointestinal Issues | Cisapride, Prucalopride                               |
+| 5-HT6           | Cognitive Disorders, Alzheimer’s Disease     | Idalopirdine (investigational), SB-742457 (research)  |
+| 5-HT7           | Depression, Sleep Disorders                  | Vortioxetine, Risperidone                             |
+| Dopamine D2     | Schizophrenia, Bipolar Disorder, Parkinson's | Aripiprazole, Haloperidol, Risperidone, Quetiapine    |
+| Dopamine D1     | Cognitive Impairment, Parkinson's            | Levodopa, Dopamine Agonists                           |
+| GABA-A          | Anxiety, Epilepsy, Insomnia                  | Benzodiazepines (e.g., Diazepam), Barbiturates, Z-drugs|
+| GABA-B          | Spasticity, Anxiety                          | Baclofen, GABAB agonists                              |
+| NMDA (Glutamate)| Schizophrenia, Alzheimer's, Stroke           | Memantine, Ketamine, Dextromethorphan                 |
+| AMPA (Glutamate)| Cognitive Disorders, Depression              | Perampanel, AMPA modulators                           |
+| Alpha-2 (Adrenergic)| ADHD, Hypertension, Anxiety             | Clonidine, Guanfacine                                 |
+| Beta (Adrenergic)| Anxiety, PTSD, Hypertension                 | Propranolol, Atenolol                                 |
+| Mu Opioid       | Pain, Addiction                              | Morphine, Methadone, Buprenorphine, Naltrexone        |
+| Nicotinic (Acetylcholine)| Cognitive Disorders, Alzheimer's   | Nicotine, Varenicline                                 |
+| Muscarinic (Acetylcholine)| Cognitive Decline, Parkinson’s    | Donepezil, Scopolamine                                |
+| Histamine H1    | Insomnia, Allergies, Anxiety                 | Diphenhydramine, Quetiapine, Doxepin                  |
+| Histamine H2    | Gastroesophageal Reflux Disease (GERD)       | Ranitidine, Famotidine                                |
+
+#
 ### Notes
 
 <details><summary>Digitizing and Replicating Human Life</summary>
