@@ -234,6 +234,10 @@ Finally, while computer software can significantly aid in the diagnostic process
 </details>
 
 #
+
+> Alex: "*Cure mental disorders.*"
+
+#
 ### Related Links
 
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
