@@ -345,6 +345,8 @@ The top 25 home remedies that are commonly used for various ailments:
 [Drug Product](https://github.com/sourceduty/Drug_Product)
 <br>
 [Cancer Science](https://chatgpt.com/g/g-ALM4A85O7-cancer-science)
+<br>
+[Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
