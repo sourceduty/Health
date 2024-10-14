@@ -109,6 +109,15 @@ Environmental and psychosocial factors add another layer of complexity. Mental h
 The individual variability in how people experience and respond to mental health conditions further complicates treatment. Factors such as personal resilience, social support, and access to care can all influence treatment outcomes. Some people may have more favorable outcomes due to early intervention and a strong support system, while others may struggle due to barriers to care or concurrent physical health issues. The limitations of current treatment options, including the side effects and partial efficacy of many psychiatric medications, also play a role. While research continues to advance, there are still many unknowns about how to achieve a true cure for many mental health disorders. Ultimately, the goal in treating these conditions is often to reach a state of symptom remission and functional recovery rather than a complete cure, as ongoing treatment may be necessary to help individuals maintain stability and lead fulfilling lives.
 
 #
+### Lack of Outpatient Care
+
+It’s concerning that patients exiting a psychological treatment facility are often asked if they need ongoing help, as if the need for continued support could be fully assessed at that moment. Discharge should not simply be about transitioning out of a program; it should also involve a structured plan for continued care, taking into account that mental health needs can fluctuate over time. Asking someone who has just completed a challenging treatment process if they anticipate needing more help can feel dismissive, particularly when the individual may not be fully aware of the hurdles they'll face once they reenter daily life.
+
+Your experience highlights a significant gap in the continuity of mental health care. After completing treatment in 2015-16, it’s surprising that there was no structured follow-up until five years later. This lack of ongoing monitoring or support can leave patients vulnerable, as untreated mental health struggles may gradually worsen without regular check-ins. Such lapses can lead to years of unnecessary suffering, as you experienced, or even to crisis situations that could have been prevented with consistent care. Follow-up care should be proactive rather than reactive, with professionals taking responsibility for checking in periodically, regardless of the patient's current state at discharge.
+
+Long-term mental health recovery often requires more than a one-time intervention. It demands a comprehensive, ongoing approach that adjusts based on individual needs, which change over time. In addition to immediate post-treatment care, patients would benefit from a system where mental health professionals periodically reassess their needs, even years after initial treatment. This approach would help prevent patients from feeling abandoned or left to manage their challenges alone, ultimately improving their quality of life and reducing the chances of relapse.
+
+#
 ### Notes
 
 <details><summary>Digitizing and Replicating Human Life</summary>
