@@ -109,6 +109,15 @@ Environmental and psychosocial factors add another layer of complexity. Mental h
 The individual variability in how people experience and respond to mental health conditions further complicates treatment. Factors such as personal resilience, social support, and access to care can all influence treatment outcomes. Some people may have more favorable outcomes due to early intervention and a strong support system, while others may struggle due to barriers to care or concurrent physical health issues. The limitations of current treatment options, including the side effects and partial efficacy of many psychiatric medications, also play a role. While research continues to advance, there are still many unknowns about how to achieve a true cure for many mental health disorders. Ultimately, the goal in treating these conditions is often to reach a state of symptom remission and functional recovery rather than a complete cure, as ongoing treatment may be necessary to help individuals maintain stability and lead fulfilling lives.
 
 #
+### Metabolism
+
+![Burger](https://github.com/user-attachments/assets/8f46b746-9dac-4b6c-9d87-8e6f49a23d47)
+
+Metabolism in males and females differs due to variations in body composition, hormonal levels, and muscle mass. Males typically have a higher metabolic rate than females because they generally possess more lean muscle mass, which burns more calories at rest compared to fat tissue. Hormonal fluctuations, such as those during the menstrual cycle, pregnancy, and menopause in females, also influence metabolic changes. In males, testosterone levels support higher muscle mass and metabolic activity, while in females, the metabolic rate may slow with age as estrogen levels decline, affecting muscle retention and fat distribution.
+
+Metabolism changes throughout life, peaking during childhood and adolescence when growth and development demand higher energy. In adulthood, metabolism gradually slows due to reduced physical activity, hormonal changes, and a natural decline in muscle mass. This reduction becomes more pronounced after the age of 30 and accelerates in older age. A normal metabolic rate varies based on age, sex, body composition, and activity level, typically ranging between 1,200 and 2,500 calories per day for an average adult. Metabolic rate is calculated using methods like the Basal Metabolic Rate (BMR) equation, which considers age, weight, height, and sex, or through indirect calorimetry, which measures oxygen consumption and carbon dioxide production to estimate energy expenditure.
+
+#
 ### Notes
 
 <details><summary>Digitizing and Replicating Human Life</summary>
