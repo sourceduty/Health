@@ -13,7 +13,7 @@ Mental health, a crucial part of overall well-being, focuses on emotional, psych
 
 In ancient times, population growth was important because more people meant more workers and soldiers. Homosexual relationships didn't produce children, so they were discouraged in favor of heterosexual ones. Prior to the 1950s homosexuality wasn't seen as a priority for society, especially when compared to heterosexual relationships which were necessary for population growth and continuation of the family lineage. 
 
-Homosexuals change their natural voice tones, desires and sexual orientation. Weird, unnatural and modified social Laws aren't made by fact or reasoning and change with popular demand.
+Homosexuals change their natural voice tones, desires and sexual orientation. Weird, unnatural and modified social laws aren't made by fact or reasoning and change with popular demand.
 
 > "*I tried to legally fight the current oppression of heterosexuality.*"
 
