@@ -7,7 +7,7 @@ General health encompasses the overall well-being of a person, including physica
 Mental health, a crucial part of overall well-being, focuses on emotional, psychological, and social functioning. Good mental health enables individuals to cope with stress, work productively, and contribute to their communities. Science plays a key role in understanding mental health, from researching the brain's functioning to developing effective therapies and medications. Advances in neuroscience, psychology, and psychiatry continue to shed light on how factors like genetics, environment, and lifestyle influence mental health. Integrating science into healthcare practices allows for more personalized treatments, helping individuals manage conditions such as anxiety, depression, and personality disorders while promoting resilience and emotional balance.
 
 #
-### Modern Fake Faggots
+### Modern Fake Homosexuals
 
 ![Sex](https://github.com/user-attachments/assets/deda1db0-9424-44fc-88de-079836ea3c7a)
 
